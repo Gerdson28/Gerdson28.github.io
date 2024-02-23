@@ -1,0 +1,35 @@
+
+        body {
+            font-family: Arial, sans-serif;
+            background-color: black;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            max-width: 800px;
+            margin: 50px auto;
+            padding: 20px;
+            background-color: black;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        h1, h2, h3 {
+            color: #e91e63;
+        }
+        p {
+            font-size: 18px;
+            line-height: 1.6;
+            color: white;
+        }
+        img {
+            max-width: 60%;
+            height: auto;
+            margin-bottom: 20px;
+            
+        }
+        ol,ul{
+          color: white;
+        }
+        figcaption{
+          color: white;
+        }
